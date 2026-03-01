@@ -4,6 +4,7 @@
 
 GitHub account created on 27/02/2026 to showcase personal projects developed over several years.  
 Some projects were developed locally; the limited commit history does not reflect actual development time.
+This account replaces a previous GitHub account to which I no longer have access.
 
 ---
 
