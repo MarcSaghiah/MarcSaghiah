@@ -12,7 +12,7 @@ This account replaces a previous GitHub account to which I no longer have access
 
 Experienced in Data Science and Image Processing, building end-to-end solutions from data exploration to deployment using AI, Computer Vision, and visualization tools.
 
-- 3 years of experience as a Data Science & Image Processing engineer at **INSERM** and **INRIA**, working on applied research projects
+- 3 years of experience as an AI/Data Science & Image Processing engineer at **INSERM** and **INRIA**, working on applied research projects
 - Interest areas : Health/MedTech - Defense - Finance - Sports - Analytics
 
 ---
