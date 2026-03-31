@@ -1,6 +1,6 @@
 ## Hi there, I'm Marc
 
-**AI / Data Scientist | Data Analyst**
+**AI / Data Scientist | Image Processing | Data Analyst**
 
 GitHub account created on 27/02/2026 to showcase personal projects developed over several years.  
 Projects were developed locally; the limited commit history does not reflect actual development time.
